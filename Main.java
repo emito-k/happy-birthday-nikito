@@ -18,8 +18,8 @@ public class Main {
     public static final String ANSI_PURPLE_BACKGROUND = "\u001B[45m";
     public static final String ANSI_CYAN_BACKGROUND = "\u001B[46m";
     public static final String ANSI_WHITE_BACKGROUND = "\u001B[47m";
-    public static final String[] COLORS = { ANSI_BLACK, ANSI_BLUE, ANSI_CYAN, ANSI_GREEN, ANSI_PURPLE, ANSI_RED,
-            ANSI_WHITE, ANSI_YELLOW };
+    public static final String[] COLORS = { ANSI_BLUE, ANSI_CYAN, ANSI_GREEN, ANSI_PURPLE, ANSI_RED,
+             ANSI_YELLOW };
     public static final Scanner SCANNER = new Scanner(System.in);
 
     public static void print(String text, String fontColor, String bgColor) {
