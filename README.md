@@ -1,10 +1,9 @@
-# ![#1589F0] happy-birthday-nikito `#1589F0`
- 
+# happy-birthday-nikito
 
-javac Main.java
-java Main
+Happy birthday Nikito, have a great Sunday and I hope you like this program I wrote for you
 
-- ![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) `#1589F0`
-- ![#f03c15](Happy Birthday Nikito and thanks for being super awesome!) `#f03c15`
-- ![#c5f015](RUN THE PROGRAM USING JAVAC!) `#c5f015`
-It's better on Windows Powershell!!
+Run it on the Powershell or any terminal using Javac
+
+Commands:
+> javac Main.java
+> java Main
